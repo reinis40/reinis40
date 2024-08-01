@@ -19,11 +19,11 @@ I'm passionate about leveraging technology to solve real-world problems. Whether
 
 ## 🔥 Projects
 - [Banking app(in progress):](https://example.com)
-  - Description: Developed a banking application utilizing PHP and Laravel, with SQLite handling account and transaction management. Implemented third-party APIs to enable currency conversion and provide cryptocurrency data integration.
+  Developed a banking application utilizing PHP and Laravel, with SQLite handling account and transaction management. Implemented third-party APIs to enable currency conversion and provide cryptocurrency data integration.
 - [Article App:](https://github.com/reinis40/Article_Manager)
-  - Description: Created an article management web application using PHP MVC architecture, featuring full CRUD operations for articles and supporting user interactions such as comments and likes. Employed SQLite for data storage and crafted a simple, user-friendly interface.
+   Created an article management web application using PHP MVC architecture, featuring full CRUD operations for articles and supporting user interactions such as comments and likes. Employed SQLite for data storage and crafted a simple, user-friendly interface.
 - [Crypto App:](https://github.com/reinis40/cryptov5)
-  - Description: Developed a PHP web application for managing and trading cryptocurrencies using virtual currency. Users can monitor top cryptocurrencies, search by ticker, execute buy/sell transactions, and view their wallet status and transaction history. The app sources data from CoinMarketCap, and CoinGecko APIs, with all information stored in an SQLite database.
+  Developed a PHP web application for managing and trading cryptocurrencies using virtual currency. Users can monitor top cryptocurrencies, search by ticker, execute buy/sell transactions, and view their wallet status and transaction history. The app sources data from CoinMarketCap, and CoinGecko APIs, with all information stored in an SQLite database.
 
 ## 🌍 Hobbies
 - Coding
