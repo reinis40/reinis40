@@ -18,10 +18,11 @@ With a solid foundation in marketing, I have transitioned into the tech world to
 I'm passionate about leveraging technology to solve real-world problems. Whether it's automating mundane tasks or developing robust web applications, I aim to make technology accessible and beneficial to everyone.
 
 ## 🔥 Projects
-- [Project 1: Automating Marketing Campaigns](https://example.com)
+- [Banking app(in progress):](https://example.com)
   - Description: Developed a system to automate email marketing campaigns, resulting in a 30% increase in engagement.
-
-- [Project 2: Inventory Management System](https://example.com)
+- [Article App:](https://github.com/reinis40/Article_Manager)
+  - Description: Created a web application to manage inventory for small businesses, reducing stock discrepancies by 50%.
+- [Crypto App:](https://github.com/reinis40/cryptov5)
   - Description: Created a web application to manage inventory for small businesses, reducing stock discrepancies by 50%.
 
 ## 🌍 Hobbies
