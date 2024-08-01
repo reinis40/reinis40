@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I’m a dedicated PHP developer with a focus on finding practical solutions and enhancing everyday technology. My background in marketing and process automation gives me a diverse perspective on development challenges.
+Welcome to my GitHub profile! I'm a passionate PHP developer specializing in creating practical solutions and advancing everyday technology. My experience in tech, combined with a focus on process automation, equips me with a unique perspective on tackling development challenges.
 
 ## 🛠️ Skills and Technologies
 
