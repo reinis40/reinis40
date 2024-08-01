@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I’m a dedicated PHP developer with a focus on fi
 
 ## 🛠️ Skills and Technologies
 
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/-Laravel-E74430?logo=laravel&logoColor=white)
-- ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
-- ![Process Automation](https://img.shields.io/badge/-Process%20Automation-4B9CD3?logo=automation&logoColor=white)
+ ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+ ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+ ![Laravel](https://img.shields.io/badge/-Laravel-E74430?logo=laravel&logoColor=white)
+ ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
+ ![Process Automation](https://img.shields.io/badge/-Process%20Automation-4B9CD3?logo=automation&logoColor=white)
 
 ## 🌟 Background
 I have a strong foundation in technology, with a focus on PHP and Laravel development. My journey in tech has been driven by a passion for solving complex problems and creating efficient, user-friendly solutions. Through various projects, I’ve developed a deep understanding of web development and application design, which has allowed me to tackle challenges and continuously improve my skills.
