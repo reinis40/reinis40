@@ -33,8 +33,8 @@ I'm passionate about leveraging technology to solve real-world problems. Whether
 - Music production
 
 ## 📫 Contact
-- Email: [your-email@example.com](mailto:reinissreinis@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reinisozoliņš)
+- [Email:](mailto:reinissreinis@gmail.com)
+- [LinkedIn:](https://www.linkedin.com/in/reinisozoliņš)
 
 ## 💬 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
