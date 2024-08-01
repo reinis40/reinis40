@@ -19,22 +19,22 @@ I'm passionate about leveraging technology to solve real-world problems. Whether
 
 ## 🔥 Projects
 - [Banking app(in progress):](https://example.com)
-  - Description: Developed a system to automate email marketing campaigns, resulting in a 30% increase in engagement.
+  - Description: Developed a banking application utilizing PHP and Laravel, with SQLite handling account and transaction management. Implemented third-party APIs to enable currency conversion and provide cryptocurrency data integration.
 - [Article App:](https://github.com/reinis40/Article_Manager)
-  - Description: Created a web application to manage inventory for small businesses, reducing stock discrepancies by 50%.
+  - Description: Created an article management web application using PHP MVC architecture, featuring full CRUD operations for articles and supporting user interactions such as comments and likes. Employed SQLite for data storage and crafted a simple, user-friendly interface.
 - [Crypto App:](https://github.com/reinis40/cryptov5)
-  - Description: Created a web application to manage inventory for small businesses, reducing stock discrepancies by 50%.
+  - Description: Developed a PHP web application for managing and trading cryptocurrencies using virtual currency. Users can monitor top cryptocurrencies, search by ticker, execute buy/sell transactions, and view their wallet status and transaction history. The app sources data from CoinMarketCap, and CoinGecko APIs, with all information stored in an SQLite database.
 
 ## 🌍 Hobbies
 - Coding
 - Reading about new tech trends
 - Playing chess
-- Hiking and exploring nature
+- Esports
+- Music production
 
 ## 📫 Contact
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: [your-email@example.com](mailto:reinissreinis@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reinisozoliņš)
 
 ## 💬 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
